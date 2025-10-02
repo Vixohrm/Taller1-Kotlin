@@ -1,5 +1,3 @@
-// Sin imports
-
 data class LiquidacionSueldo(
     val periodo: String,
     val empleado: Empleado,
